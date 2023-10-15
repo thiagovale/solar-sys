@@ -2,6 +2,10 @@
 
 O projeto é uma representação do sistema solar criada utilizando a biblioteca ThreeJS
 
+## Vídeo com funcionamento
+
+- [Vídeo](https://youtu.be/CRreP3-g2Nc)
+
 ## Como executar
 
 ```bash
